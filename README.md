@@ -1,49 +1,130 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  ANIMATED HEADER                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f2942&height=220&section=header&text=KAMAL%20NARAYAN%20CHOUBEY&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=CS%20Student%20%C2%B7%20Linux%20%C2%B7%20Open%20Source&descAlignY=62&descFontSize=16&descColor=38BDF8" width="100%"/>
+
 <div align="center">
-
-# Hey, I'm Kamal Narayan Choubey 👋
-
-**CS Student · Security Tooling · Linux Internals · Cloud-Native**
-
-[![GitHub followers](https://img.shields.io/github/followers/Phantom9869?style=flat&color=black&labelColor=black&logo=github&logoColor=white)](https://github.com/Phantom9869)
-&nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=Phantom9869&style=flat&color=black&label=profile+views)
-
+<br>
+<samp>CS undergrad figuring out how systems actually work — from the kernel up to the cloud.</samp>
+<br>
 </div>
 
 ---
 
-### About Me
+<br>
 
-I'm a CS student from India with a deep interest in how systems work — and how they break. I gravitate toward low-level programming, Linux internals, and building tools that solve real security problems. Currently exploring the cloud-native ecosystem and contributing to open source.
+## `$ whoami`
 
-- 🔐 &nbsp;Passionate about **cybersecurity** — intrusion detection, runtime security, attack surface analysis
-- 🐧 &nbsp;Comfortable in **Linux** — systems programming, auth logs, kernel-level concepts
-- 🌐 &nbsp;Interested in **networking** — how packets move, how protocols fail, how attackers think
-- ☁️ &nbsp;Exploring **cloud-native & DevOps** — Kubernetes, eBPF, chaos engineering
-- 📖 &nbsp;Always learning — currently diving into Go and cloud-native security tooling
+```
+  Kamal Narayan Choubey · CS Student
+
+  Core
+  ├── 🐧 Linux & Systems
+  ├── 🌐 Networking
+  └── 🌱 Open Source
+
+  Exploring
+  ├── ☁️  Cloud Native & DevOps
+  ├── 💻 Web Development
+  ├── 🐳 Kubernetes & Containers
+  ├── 🔐 Cybersecurity
+  └── 🐹 Go
+
+  Currently Learning
+  ├── 🐹 Go
+  ├── ⚡ eBPF
+  └── ☸️  Kubernetes
+```
+
+<br>
 
 ---
 
-### Stack
+<br>
 
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-black?style=flat&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go&logoColor=white)
+## Tech Stack
 
----
+<br>
 
-### Currently
+**Core Stack**
 
-- 🚀 &nbsp;Actively contributing to open source security projects
-- 📚 &nbsp;Learning Go for cloud-native development
-- 🔭 &nbsp;Exploring eBPF, runtime threat detection, and chaos engineering
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/>
+      <br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/>
+      <br/><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash"/>
+      <br/><sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/>
+      <br/><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="48" height="48" alt="Ubuntu"/>
+      <br/><sub><b>Ubuntu</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/>
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vim&theme=dark" width="48" height="48" alt="Vim"/>
+      <br/><sub><b>Vim</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/>
+      <br/><sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-<div align="center">
+**Currently Learning**
 
-*"The best way to understand how to defend a system is to understand how to break it."*
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" height="48" alt="Go"/>
+      <br/><sub><b>Go</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/>
+      <br/><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" height="48" alt="Kubernetes"/>
+      <br/><sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/>
+      <br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"/>
+      <br/><sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/>
+      <br/><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions"/>
+      <br/><sub><b>GH Actions</b></sub>
+    </td>
+  </tr>
+</table>
 
-</div>
+<br>
