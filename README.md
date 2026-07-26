@@ -14,28 +14,32 @@
 
 <br>
 
-## `$ whoami`
+## 🚀 Who Am I?
 
-```
-  Kamal Narayan Choubey · CS Student
+CS undergrad exploring the world of systems, networks, and open source — blending:
 
-  Core
-  ├── 🐧 Linux & Systems
-  ├── 🌐 Networking
-  └── 🌱 Open Source
+<br>
 
-  Exploring
-  ├── ☁️  Cloud Native & DevOps
-  ├── 💻 Web Development
-  ├── 🐳 Kubernetes & Containers
-  ├── 🔐 Cybersecurity
-  └── 🐹 Go
+### 🔩 Core
+- 🐧 Linux & Systems
+- 🌐 Networking
+- 🌱 Open Source
 
-  Currently Learning
-  ├── 🐹 Go
-  ├── ⚡ eBPF
-  └── ☸️  Kubernetes
-```
+<br>
+
+### 🔭 Exploring
+- ☁️ Cloud Native & DevOps
+- 💻 Web Development
+- 🐳 Kubernetes & Containers
+- 🔐 Cybersecurity
+- 🐹 Go
+
+<br>
+
+### 📖 Currently Learning
+- 🐹 Go
+- ⚡ eBPF
+- ☸️ Kubernetes
 
 <br>
 
@@ -43,7 +47,7 @@
 
 <br>
 
-## Tech Stack
+## 🧠 Tech Arsenal
 
 <br>
 
